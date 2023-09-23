@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3356b917abb0b1bd",
+        "id": "d7059ad40721a959",
         "type": "tabs",
         "children": [
           {
-            "id": "7a63a621456a8305",
+            "id": "e6db9bc0aeb26ebd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 수업시 정리했던 자료.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 수업시 정리했던 자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 수업시 정리했던 자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 수업시 정리했던 자료.md"
+              }
             }
           }
         ]
@@ -138,10 +146,40 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7a63a621456a8305",
+  "active": "e6db9bc0aeb26ebd",
   "lastOpenFiles": [
-    "Project(목표, 데드라인 명확한거)/Project git용.md",
-    "Area(꾸준히 신경쓸것)/Area git용.md",
-    "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/Archive git용.md"
+    "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 관련/기타 참고.md",
+    "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 수업시 정리했던 자료.md",
+    "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 관련/면접 정리시때만 볼 것.md",
+    "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 관련",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/설정화면을 구성 및 이유.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/MVVM Architecture에 대해 그림.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/ViewModel 과 LiveData를 사용하는 이유.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/안드로이드에서 Life Cycle.md",
+    "Area(꾸준히 신경쓸것)/면접용/기술면접용.md",
+    "Resource(자료, 관심있는것)/파일 저장소/lifecycle.png",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/MVVM을 프로젝트에 적용해 느낀점.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/MVP와 MVVM의 차이점.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/MVVM을 사용하는 목적.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Activity 가 스택에 쌓이는 과정.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Data Binding의 장점 및 단점.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Repository 의 역할.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/MVVM 에서 Data Source 란?.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Singlton 과  Factory Pattern.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/REST란.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Fragment LifeCycle.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Inflater의 역할.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/싱글톤의 주 사용처.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Intent 와 PendingIntent의 차이점.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Intent를 이루는 구성요소.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/HTTP REST 처리시 사용한 로직.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Bundle.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/List, Set(중복된 값) & Map 의 차이점.md",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/화면 회전시 객체 값 리셋?.md",
+    "무제 파일.canvas",
+    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리",
+    "Untitled 1.png",
+    "Area(꾸준히 신경쓸것)/면접용/수정",
+    "Area(꾸준히 신경쓸것)/면접용/기본"
   ]
 }

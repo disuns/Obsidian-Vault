@@ -1,0 +1,1 @@
+- Api 나 LocalDB를 통해 가져온 Data들을 통칭

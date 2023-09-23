@@ -1,0 +1,4 @@
+- MVP
+	- Presentr 와 View 사이의 강한 의존성
+- MVVM
+	- VIewModel과 View사이의 의존성이 약하다
