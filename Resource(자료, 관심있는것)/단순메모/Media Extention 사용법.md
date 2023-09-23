@@ -1,0 +1,3 @@
+- cmd + p 에서 media 검색 후 open link로 영상 켜기 가능
+- 별 눌러서 타임스탬프 찍기가능 ex)[04:33](https://youtu.be/4JaRoKofYwo?si=aWaZL77b3i4PoEoo#t=273.96315295994566)
+- reading 모드로 변경후 타임스탬프 클릭시 그 부분 이동
