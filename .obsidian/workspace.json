@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "07a9c61585bb020f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3356b917abb0b1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a63a621456a8305",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "268d99cecbd24f12",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e17385bd958195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f27ceb49bd0218cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f56bcd99fd7de1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "046497d651a594b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3455d4c04e75a0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b20b75f77e107770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd90430c87f415d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50966a6d12fcb7d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd67b3e0985c9dee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "872365fd08c40849",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7a63a621456a8305",
+  "lastOpenFiles": [
+    "Project(목표, 데드라인 명확한거)/Project git용.md",
+    "Area(꾸준히 신경쓸것)/Area git용.md",
+    "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/Archive git용.md"
+  ]
+}
