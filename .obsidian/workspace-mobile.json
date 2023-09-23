@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "6b818d566b1f827b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa4a68c167550942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "642c677d5826cd64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/Archive git용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3abe3799e3f70302",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e83a7948b6d26904",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cd3b298192b68ca8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "808ad0b24b6ba618",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3f5310ef70734640",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "64578c19214e22e6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "95595380007f0aaa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/Archive git용.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bcd42c7b3b112554",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/Archive git용.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "75b0473ee084a3da",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/Archive git용.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "642c677d5826cd64",
+  "lastOpenFiles": [
+    "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/Archive git용.md",
+    "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)",
+    "Resource(자료, 관심있는것)/단순메모/Media Extention 사용법.md",
+    "Resource(자료, 관심있는것)/단순메모",
+    "Resource(자료, 관심있는것)",
+    "Area(꾸준히 신경쓸것)/Area git용.md",
+    "Area(꾸준히 신경쓸것)",
+    "Project(목표, 데드라인 명확한거)/Project git용.md",
+    "Project(목표, 데드라인 명확한거)"
+  ]
+}
