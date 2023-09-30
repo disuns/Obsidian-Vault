@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource(자료, 관심있는것)/단순메모/Media Extention 사용법.md",
-                "mode": "preview",
+                "file": "Resource(자료, 관심있는것)/단순메모/소설 읽다 만거 체크.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource(자료, 관심있는것)/단순메모/Media Extention 사용법.md",
+                "file": "Resource(자료, 관심있는것)/단순메모/소설 읽다 만거 체크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource(자료, 관심있는것)/단순메모/Media Extention 사용법.md",
+                "file": "Resource(자료, 관심있는것)/단순메모/소설 읽다 만거 체크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource(자료, 관심있는것)/단순메모/Media Extention 사용법.md"
+                "file": "Resource(자료, 관심있는것)/단순메모/소설 읽다 만거 체크.md"
               }
             }
           }
@@ -157,6 +156,9 @@
   },
   "active": "e6db9bc0aeb26ebd",
   "lastOpenFiles": [
+    "Resource(자료, 관심있는것)/단순메모/소설 읽다 만거 체크.md",
+    "Resource(자료, 관심있는것)/단순메모/무제 파일.canvas",
+    "Resource(자료, 관심있는것)/단순메모/Media Extention 사용법.md",
     "Archive(완료 Project, 신경안써도 되는 Area, 관심없는 Resource)/SeSac 수업시 정리했던 자료.md",
     "Context/spacesLastSync.log",
     "Context",
@@ -185,8 +187,6 @@
     "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Intent를 이루는 구성요소.md",
     "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/HTTP REST 처리시 사용한 로직.md",
     "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/Bundle.md",
-    "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리/List, Set(중복된 값) & Map 의 차이점.md",
-    "무제 파일.canvas",
     "Area(꾸준히 신경쓸것)/면접용/면접 자료 정리",
     "Untitled 1.png",
     "Area(꾸준히 신경쓸것)/면접용/수정",
